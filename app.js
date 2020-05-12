@@ -5,7 +5,7 @@ fs.writeFile('some.txt', 'Hello World',( err )=> {
     console.log(err)
   }
 });
-fs.appendFile('some.txt', 'Goodbye World!',( err )=> {
+fs.appendFile('some.txt','Goodbye World!',( err )=> {
   if (err) {
     console.log(err)
   }

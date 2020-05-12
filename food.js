@@ -1,3 +1,3 @@
 let food = [ 'coffee','chips n salsa','chicken']
 
-module.exports = foodapplefood[,apple]food.push[,apple]
+module.exports = foodapplefood[,apple]food.push[,apple]food.push[,apple]
